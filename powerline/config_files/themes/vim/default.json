@@ -21,11 +21,6 @@
 				"priority": 10
 			},
 			{
-				"function": "branch",
-				"exclude_modes": ["nc"],
-				"priority": 30
-			},
-			{
 				"function": "readonly_indicator",
 				"draw_soft_divider": false,
 				"after": " "
@@ -41,11 +36,6 @@
 			},
 			{
 				"function": "file_name",
-				"draw_soft_divider": false
-			},
-			{
-				"function": "file_vcs_status",
-				"before": " ",
 				"draw_soft_divider": false
 			},
 			{

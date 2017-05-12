@@ -42,9 +42,9 @@
 		"buf_nc_mod:modified_indicator": "tab_nc:modified_indicator",
 
 
-		"commandt:label":      "file_name",
+		"commandt:label":      "command_t_label",
 		"commandt:background": "background",
-		"commandt:finder":     "file_name",
-		"commandt:path":       "file_directory"
+		"commandt:finder":     "command_t_label",
+		"commandt:path":       "file_name"
 	}
 }
